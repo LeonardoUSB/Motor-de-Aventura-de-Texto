@@ -1,0 +1,18 @@
+? /home/leokoto/.stack/programs/x86_64-linux/ghc-tinfo6-9.4.8/lib/ghc-9.4.8/lib/x86_64-linux-ghc-9.4.8/rts-1.0.2/include/ghcversion.h
+: hash: 4bc88722407a89d1efbfa9c116cd4017af6ea3ff746643032b96cef62782f5dd
+? /home/leokoto/Escritorio/Haskel/base_proyecto1/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.4.8/build/TextAdventureEngine-exe/autogen/Paths_TextAdventureEngine.hs
+: hash: f6cfc33e8458c24db909aab37a12c97135589a7083cdc1d217c63ede739e7f2d
+? /home/leokoto/Escritorio/Haskel/base_proyecto1/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.4.8/build/TextAdventureEngine-exe/autogen/cabal_macros.h
+: hash: 8623551714a733bc54e699e8822290a66c31badf436e453743bc582a8665dcd3
+/home/leokoto/Escritorio/Haskel/base_proyecto1/README.md:
+  hash: 7b5a1a26194aec97104981b848dae82b201f47f33f87370ec27ba16681f1d13f
+/home/leokoto/Escritorio/Haskel/base_proyecto1/TextAdventureEngine.cabal:
+  hash: e65911cc849eaeccbb41b1102b2c3f4f939639d6f734ee727662a23a3052c515
+/home/leokoto/Escritorio/Haskel/base_proyecto1/app/Main.hs:
+  hash: d47f778f0f8e267c2ee4c2c1a638a8a63cf0862f3cc3801978b8479d51650180
+/home/leokoto/Escritorio/Haskel/base_proyecto1/mundo.txt:
+  hash: 936417db28a45f25694164e1792eebc2a96ff534ed18663b83cd9e7d2a794668
+/home/leokoto/Escritorio/Haskel/base_proyecto1/package.yaml:
+  hash: 9506e4296df7bb672707819b737f229e6154fe1201f334077e6b0a3cabaed1f7
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3
